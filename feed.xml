@@ -3,10 +3,30 @@
     <title>Eastern Allergy and Asthma Specialists</title>
     <link href="https://noj.cc/test-publii/feed.xml" rel="self" />
     <link href="https://noj.cc/test-publii" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2022-10-04T22:35:40-07:00</updated>
     <author>
         <name>Lyvia Leigh</name>
     </author>
     <id>https://noj.cc/test-publii</id>
 
+    <entry>
+        <title>Test Post</title>
+        <author>
+            <name>Lyvia Leigh</name>
+        </author>
+        <link href="https://noj.cc/test-publii/test-post.html"/>
+        <id>https://noj.cc/test-publii/test-post.html</id>
+
+        <updated>2022-10-04T22:35:40-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Hi there
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hi there</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
