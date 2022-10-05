@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://noj.cc/test-publii/test-post.html",
-            "url": "https://noj.cc/test-publii/test-post.html",
+            "id": "https://noj.cc/test-publii/test-post/",
+            "url": "https://noj.cc/test-publii/test-post/",
             "title": "Test Post",
             "summary": "Hi there",
             "content_html": "<p>Hi there</p>",
