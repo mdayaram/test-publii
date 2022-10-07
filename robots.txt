@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://noj.cc/test-publii/sitemap.xml
+Disallow: /
